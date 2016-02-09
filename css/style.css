@@ -1,11 +1,11 @@
 .contgris{
-	background-color: #555555;
+	background-color: #A9DFBF;
 	height: 100px;
 }
 .logo{
 	width: 80px;
 	height: 85px;
-	margin-left: 30px;
+	margin-left: 100px;
 	padding: 10px;
 }
 
@@ -21,7 +21,7 @@
     display: block;
     text-align: center;
     padding: 35px  ;
-    color:#ffffff;
+    color:#998;
 
    
 
@@ -140,68 +140,4 @@
 
 }
 /*footer*/
-.button{text-decoration:none; text-align:center; 
- padding:11px 32px; 
- border:none; 
-  
- font:0px Arial, Helvetica, sans-serif; 
- font-weight:bold; 
- color:#ced9d9; 
- background-color:#3ba4c7; 
- background-image: -moz-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -webkit-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -o-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -ms-linear-gradient(top, #3ba4c7 0% ,#1982a5 100%); 
- filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982a5', endColorstr='#1982a5',GradientType=0 ); 
- background-image: linear-gradient(top, #3ba4c7 0% ,#1982a5 100%);   
- -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff; 
- -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #ffffff;  
- box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff;  
- opacity:0.35; 
- -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=35); 
- filter: alpha(opacity=35); 
- text-shadow: -8px 1px 4px #ede6e6; 
- filter: dropshadow(color=#ede6e6, offx=-8, offy=1); }.button:hover{
- padding:11px 32px; 
- border:solid 1px #004F72; 
-  
- font:0px Arial, Helvetica, sans-serif; 
- font-weight:bold; 
- color:#ced9d9; 
- background-color:#afd2de; 
- background-image: -moz-linear-gradient(top, #afd2de 0%, #74787a 100%); 
- background-image: -webkit-linear-gradient(top, #afd2de 0%, #74787a 100%); 
- background-image: -o-linear-gradient(top, #afd2de 0%, #74787a 100%); 
- background-image: -ms-linear-gradient(top, #afd2de 0% ,#74787a 100%); 
- filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#74787a', endColorstr='#74787a',GradientType=0 ); 
- background-image: linear-gradient(top, #afd2de 0% ,#74787a 100%);   
- -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff; 
- -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #ffffff;  
- box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff;  
- opacity:0.35; 
- -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=35); 
- filter: alpha(opacity=35); 
- text-shadow: -11px -3px 4px #e3cfcf; 
- filter: dropshadow(color=#e3cfcf, offx=-11, offy=-3);}.button:active{
- padding:11px 32px; 
- border:none; 
-  
- font:0px Arial, Helvetica, sans-serif; 
- font-weight:bold; 
- color:#edf5f5; 
- background-color:#3ba4c7; 
- background-image: -moz-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -webkit-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -o-linear-gradient(top, #3ba4c7 0%, #1982a5 100%); 
- background-image: -ms-linear-gradient(top, #3ba4c7 0% ,#1982a5 100%); 
- filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982a5', endColorstr='#1982a5',GradientType=0 ); 
- background-image: linear-gradient(top, #3ba4c7 0% ,#1982a5 100%);   
- -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff; 
- -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 20px #ffffff;  
- box-shadow:0px 0px 2px #bababa, inset 0px 0px 20px #ffffff;  
- opacity:0.35; 
- -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=35); 
- filter: alpha(opacity=35); 
- text-shadow: -8px 1px 4px #ede6e6; 
- filter: dropshadow(color=#ede6e6, offx=-8, offy=1);}
- 
+
